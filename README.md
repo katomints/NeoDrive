@@ -1,5 +1,5 @@
 # NeoDrive
-NeoDrive: The Future of Roblox Driving
+NeoDrive: An Open-Source AI Driving
 
 Get ready to hit the road like never before with NeoDrive, the cutting-edge AI driving assistant tailored for all your Roblox driving games. NeoDrive isn't just another navigation tool—it's your trusty co-pilot, making every journey smoother, safer, and a whole lot more fun.
 
