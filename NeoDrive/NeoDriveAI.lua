@@ -1,6 +1,5 @@
 --[[
 
-NeoDrive AI by Katomint
 Please refer to the License on GitHub if going to do modifications, publishing, etc.
 Refer to instructions to learn how to install onto a Vehicle
 
